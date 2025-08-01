@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21553834/README.md)
-
 # 📚 Book Club Library Management System
 
 <div align="center">
