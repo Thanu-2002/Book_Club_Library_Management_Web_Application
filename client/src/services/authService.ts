@@ -1,6 +1,7 @@
 import type { User } from "../types/User.ts";
 import { apiClient } from "./apiClient";
 
+
 export interface SignupResponse{
     name : string
     email : string
