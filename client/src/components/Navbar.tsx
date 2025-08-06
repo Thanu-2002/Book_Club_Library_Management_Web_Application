@@ -34,7 +34,6 @@ const Navbar = () => {
     }
   };
   
-
   const handleDashboard = () => navigate("/dashboard");
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
