@@ -33,6 +33,7 @@ const Navbar = () => {
       setIsLoading(false);
     }
   };
+  
 
   const handleDashboard = () => navigate("/dashboard");
 
